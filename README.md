@@ -12,6 +12,7 @@ CSS
     - Flexbox with Frogs: [flexboxfroggy.com][2]
 * Readings:
     - Responsive CSS Patterns without Media Queries: [www.sitepoint.com][5]
+    
 DOCKER
 -------
 * Baby Steps:
