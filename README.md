@@ -18,6 +18,8 @@ DOCKER
 * Baby Steps:
     - Step 1: [Google Docs][3]
     - Step 2: [Google Docs][4]
+* Docker Compose:
+	- Demo Flask with Redis: [docs.docker.com][7]     
 
 ANGULAR 2
 ----------
@@ -30,3 +32,4 @@ ANGULAR 2
 [4]: https://docs.google.com/presentation/d/1xOC9LKajXXKCOrZGQU4gQKQ0rI0kfZij356InzOE8i4/edit#slide=id.g137b99dabe_1_38 "Baby Steps 2"
 [5]: https://www.sitepoint.com/responsive-css-patterns-without-media-queries "Responsive CSS Patterns without Media Queries"
 [6]: https://toddmotto.com/dynamic-page-titles-angular-2-router-events "Dynamic Page Titles"
+[7]: https://docs.docker.com/compose/gettingstarted/ "Get started with Docker Compose"
