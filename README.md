@@ -25,6 +25,11 @@ ANGULAR 2
 ----------
 * How To:
     - Dynamic Page Titles: [toddmotto.com][6]
+    
+JAVASCRIPT
+----------
+* Documentation:
+    - Complete practical documentation: [javascript.info/][8] 
 
 [1]: http://cssgridgarden.com/ "CSS Grid Garden"
 [2]: http://flexboxfroggy.com/ "Flexbox Froggy"
@@ -33,3 +38,4 @@ ANGULAR 2
 [5]: https://www.sitepoint.com/responsive-css-patterns-without-media-queries "Responsive CSS Patterns without Media Queries"
 [6]: https://toddmotto.com/dynamic-page-titles-angular-2-router-events "Dynamic Page Titles"
 [7]: https://docs.docker.com/compose/gettingstarted/ "Get started with Docker Compose"
+[8]: https://javascript.info/ "Javascript Documentation"
