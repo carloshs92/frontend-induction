@@ -31,6 +31,12 @@ JAVASCRIPT
 * Documentation:
     - Complete practical documentation: [javascript.info/][8] 
 
+CANVAS
+-------
+* Math:
+    - Tutorials about math in videogames: [gamemath.com/][9] 
+    
+
 [1]: http://cssgridgarden.com/ "CSS Grid Garden"
 [2]: http://flexboxfroggy.com/ "Flexbox Froggy"
 [3]: https://docs.google.com/presentation/d/1rxk34q6G3KxR1DSBsBPWI3T141JyEIY-kTbt5AHITEo/edit#slide=id.g137b99dabe_1_38 "Babys Steps 1"
@@ -39,3 +45,4 @@ JAVASCRIPT
 [6]: https://toddmotto.com/dynamic-page-titles-angular-2-router-events "Dynamic Page Titles"
 [7]: https://docs.docker.com/compose/gettingstarted/ "Get started with Docker Compose"
 [8]: https://javascript.info/ "Javascript Documentation"
+[9]: http://gamemath.com/ "Videogame Math"
