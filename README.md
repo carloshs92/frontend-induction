@@ -29,17 +29,18 @@ ANGULAR 2
 JAVASCRIPT
 ----------
 * Documentation:
-    - Complete practical documentation: [javascript.info/][8] 
+    - Complete practical documentation: [javascript.info][8] 
 
 VIDEOGAMES
 ----------
 * Math:
-    - Tutorials about math in videogames: [gamemath.com/][9] 
+    - Tutorials about math in videogames: [gamemath.com][9] 
     
 SCRUM
 ------
 * Certifications:
     - Scrum Alliance vs. SCRUMstudy: [medium.com][10] 
+    
 [1]: http://cssgridgarden.com/ "CSS Grid Garden"
 [2]: http://flexboxfroggy.com/ "Flexbox Froggy"
 [3]: https://docs.google.com/presentation/d/1rxk34q6G3KxR1DSBsBPWI3T141JyEIY-kTbt5AHITEo/edit#slide=id.g137b99dabe_1_38 "Babys Steps 1"
