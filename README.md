@@ -31,12 +31,15 @@ JAVASCRIPT
 * Documentation:
     - Complete practical documentation: [javascript.info/][8] 
 
-CANVAS
--------
+VIDEOGAMES
+----------
 * Math:
     - Tutorials about math in videogames: [gamemath.com/][9] 
     
-
+SCRUM
+------
+* Certifications:
+    - Scrum Alliance vs. SCRUMstudy: [medium.com][10] 
 [1]: http://cssgridgarden.com/ "CSS Grid Garden"
 [2]: http://flexboxfroggy.com/ "Flexbox Froggy"
 [3]: https://docs.google.com/presentation/d/1rxk34q6G3KxR1DSBsBPWI3T141JyEIY-kTbt5AHITEo/edit#slide=id.g137b99dabe_1_38 "Babys Steps 1"
@@ -46,3 +49,4 @@ CANVAS
 [7]: https://docs.docker.com/compose/gettingstarted/ "Get started with Docker Compose"
 [8]: https://javascript.info/ "Javascript Documentation"
 [9]: http://gamemath.com/ "Videogame Math"
+[10]: https://medium.com/@manuel.blacksun/scrum-alliance-vs-scrumstudy-22fcac39d9dd "Scrum Alliance vs. SCRUMstudy"
