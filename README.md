@@ -41,6 +41,11 @@ SCRUM
 * Certifications:
     - Scrum Alliance vs. SCRUMstudy: [medium.com][10] 
     
+MACHINE LEARNING
+----------------
+* DataMining:
+    - Complete GUIDE: [guidetodatamining.com][11]     
+    
 [1]: http://cssgridgarden.com/ "CSS Grid Garden"
 [2]: http://flexboxfroggy.com/ "Flexbox Froggy"
 [3]: https://docs.google.com/presentation/d/1rxk34q6G3KxR1DSBsBPWI3T141JyEIY-kTbt5AHITEo/edit#slide=id.g137b99dabe_1_38 "Babys Steps 1"
@@ -51,3 +56,4 @@ SCRUM
 [8]: https://javascript.info/ "Javascript Documentation"
 [9]: http://gamemath.com/ "Videogame Math"
 [10]: https://medium.com/@manuel.blacksun/scrum-alliance-vs-scrumstudy-22fcac39d9dd "Scrum Alliance vs. SCRUMstudy"
+[11]: http://guidetodatamining.com/
