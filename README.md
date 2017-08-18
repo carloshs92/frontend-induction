@@ -30,6 +30,13 @@ JAVASCRIPT
 ----------
 * Documentation:
     - Complete practical documentation: [javascript.info][8] 
+    
+    
+TESTING
+----------
+* JEST:
+    - Complete practical documentation: [https://facebook.github.io][12] 
+
 
 VIDEOGAMES
 ----------
@@ -57,3 +64,4 @@ MACHINE LEARNING
 [9]: http://gamemath.com/ "Videogame Math"
 [10]: https://medium.com/@manuel.blacksun/scrum-alliance-vs-scrumstudy-22fcac39d9dd "Scrum Alliance vs. SCRUMstudy"
 [11]: http://guidetodatamining.com/
+[12]: https://facebook.github.io/jest/
